@@ -3,8 +3,8 @@ import { useStateValue } from './store/stateProvider';
 
 
 function App() {
-  const [{ msg }, dispatch] = useStateValue();
-  console.log(msg);
+  const [state, dispatch] = useStateValue();
+  console.log(state);
   return (
     <div className="App">
       {/* All pages components will render here */}

@@ -1,0 +1,159 @@
+{
+    "recipes": [
+        {
+            "id": "1",
+            "name": "Buttern Chicken",
+            "description": "Delicious chicken curry fried with original butter and indian spices",
+            "main_image": "",
+            "cook": "Suraj K.",
+            "estimated_time": "40mins",
+            "difficulty_level": "Intermediate",
+            "country": "India",
+            "steps": [
+                {
+                    "id": "1",
+                    "instruction": "Marinate chicken using fresh curd and red chili powder",
+                    "img": ""
+                },
+                {
+                    "id": "2",
+                    "instruction": "Marinate chicken using fresh curd and red chili powder",
+                    "img": ""
+                },
+                {
+                    "id": "3",
+                    "instruction": "Marinate chicken using fresh curd and red chili powder",
+                    "img": ""
+                }
+            ],
+            "ingredients": [
+                {
+                    "name": "3 tablespoon olive oil",
+                    "special_tip": null
+                },
+                {
+                    "name": "2 cup Onion",
+                    "special_tip": "Finely Chopped"
+                }
+            ],
+            "recipe_category": [
+                {
+                    "name": "Dinner",
+                    "img": ""
+                },
+                {
+                    "name": "Non-Veg",
+                    "img": ""
+                },
+                {
+                    "name": "High Protien",
+                    "img": ""
+                }
+            ],
+            "recipe_images": [
+                "image1",
+                "image2",
+                "image3"
+            ],
+            "video_url": "https://www.youtube.com/watch?v=a03U45jFxOI"
+        },
+        {
+            "id": "2",
+            "name": "Bengan Bharta",
+            "description": "Indian style eggplant curry",
+            "main_image": "",
+            "cook": "Kunal Kapoor",
+            "estimated_time": "30mins",
+            "difficulty_level": "Intermediate",
+            "country": "India",
+            "steps": [
+                {
+                    "id": "1",
+                    "instruction": "Cook eggplants on the stove from both sides",
+                    "img": ""
+                },
+                {
+                    "id": "2",
+                    "instruction": "Crush the cooked eggplants and add salt as per your test",
+                    "img": ""
+                },
+                {
+                    "id": "3",
+                    "instruction": "Marinate chicken using fresh curd and red chili powder",
+                    "img": ""
+                }
+            ],
+            "ingredients": [
+                {
+                    "name": "3 tablespoon olive oil",
+                    "special_tip": null
+                },
+                {
+                    "name": "2 cup Onion",
+                    "special_tip": "Finely Chopped"
+                }
+            ],
+            "recipe_category": [
+                {
+                    "name": "Lunch",
+                    "img": ""
+                },
+                {
+                    "name": "Dinner",
+                    "img": ""
+                },
+                {
+                    "name": "Vegetarian",
+                    "img": ""
+                },
+                {
+                    "name": "High Fiber",
+                    "img": ""
+                }
+            ],
+            "recipe_images": [
+                "image1",
+                "image2",
+                "image3"
+            ],
+            "video_url": "https://www.youtube.com/watch?v=82vXAwb3RHQ"
+        }
+    ],
+    "country": [
+        {
+            "name": "India",
+            "cultural_history": "",
+            "famous_recipes": []
+        },
+        {
+            "name": "China",
+            "cultural_history": "",
+            "famous_recipes": []
+        }
+    ],
+    "cooks": [
+        {
+            "name": "Suraj K.",
+            "img": "",
+            "introduction": "Hi, I'm Suraj, a full-time food blogger, student and food lover. I live in Thunder Bay with my family. Loves traveling, sharing new recipes, and spending time with my family.",
+            "recipe": "",
+            "url":""
+        },
+        {
+            "name": "Kunal Kapoor",
+            "img": "",
+            "introduction": "Cook, father and travel blogger who likes to make fusion food.",
+            "recipe": "",
+            "url":""
+        }
+    ],
+    "project_team": [
+        {
+            "name": "Devarsh Patel",
+            "img": "",
+            "introduction": "Hi, I'm Devarsh, a software developer, student and food lover. I live in Thunder Bay with my family. Loves converting business ideas into real world softwares and attractive websites.",
+            "role": "Website Developer",
+            "url": ""
+        }
+    ]
+}
