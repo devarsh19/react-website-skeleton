@@ -1,6 +1,10 @@
 import './App.css';
+import { useStateValue } from './store/stateProvider';
+
 
 function App() {
+  const [{ msg }, dispatch] = useStateValue();
+  console.log(msg);
   return (
     <div className="App">
       {/* All pages components will render here */}
