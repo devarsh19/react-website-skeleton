@@ -4,6 +4,7 @@ import { useStateValue } from './store/stateProvider';
 import { Header } from './components/Header/Header'
 import { Home } from './components/Home/Home'
 import { Recipes } from './components/Recipes/Recipes';
+import { Footer } from './components/Footer/Footer';
 
 
 import './App.css';
@@ -23,7 +24,7 @@ function App() {
           <Route exact path="/team" component={Home} />
           <Route exact path="/cultural" component={Home} />
         </Switch>
-        {/* <Footer /> */}
+        <Footer />
       </Router>
     </div>
   );
