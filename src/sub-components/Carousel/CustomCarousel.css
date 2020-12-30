@@ -1,0 +1,14 @@
+.carousel_img {
+    height: 400px !important;
+}
+
+.legend {
+    opacity: 1 !important;
+    margin-left: 0px !important;
+    left: 70% !important;
+    width: fit-content !important;
+    padding: 0.75rem 2rem !important;
+    font-size: 16px !important;
+    background-color: rgb(80, 17, 204) !important;
+    color: rgb(247, 250, 252) !important;
+}

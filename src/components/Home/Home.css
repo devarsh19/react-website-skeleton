@@ -1,4 +1,11 @@
 .home {
-    margin: 10px 10px 0px 10px;
     padding-bottom: 4.5rem;
+}
+
+.home__container {
+    margin: 10px 10px 0px 10px;
+}
+
+.home__carousel_img {
+    height: 400px;
 }
